@@ -1,0 +1,20 @@
+{
+  "name": "2-nd-1",
+  "version": "1.0.0",
+  "description": "Namu darbai 1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "tekstas",
+    "bandymas"
+  ],
+  "author": "Egle",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6"
+  }
+}
